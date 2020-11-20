@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there! Welcome to Tim Anders' GitHub Page!
+### Here you can access all my public projects
 
+About me: I am a IT student (with focus on data science and machine learning) currently doing my master in germany.
+I am open for collaboration projects about data science, amchine learning and deep learning.
+
+You can reach out to me on:
+<a href="https://www.linkedin.com/in/tim-anders/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
 <!--
 **Mechamod/Mechamod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
