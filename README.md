@@ -2,7 +2,7 @@
 ### Here you can access all my public projects
 
 **About me**:  
-I am a IT student (with focus on data science and machine learning) currently doing my master in germany.  
+I am an IT student (with focus on data science and machine learning) currently doing my master in germany.  
 Also I am always open for collaboration projects about data science, machine learning and deep learning.
 
 You can reach out to me on:  
